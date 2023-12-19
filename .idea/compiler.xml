@@ -12,6 +12,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="automation-framework" target="16" />
       <module name="GitHub" target="16" />
     </bytecodeTargetLevel>
   </component>
